@@ -1,4 +1,4 @@
-rolleybus System Input Device (PXN V10 Pro Fix)
+Trolleybus System Input Device (PXN V10 Pro Fix)
 
 Это форк оригинального модуля ввода для Garry's Mod (GMod), используемого в аддоне Trolleybus System (FS Project).
 
