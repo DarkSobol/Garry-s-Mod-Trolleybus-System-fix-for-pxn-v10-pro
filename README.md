@@ -18,7 +18,7 @@ Trolleybus System Input Device (PXN V10 Pro Fix)
 
 🛠️ Как установить готовый DLL
 
-    Скачай готовый gmcl_trolleybus_input_device_win64.dll из раздела Releases (или собери сам, см. ниже).
+    Скачай готовый gmcl_TrolleybusFix_win32 и переменуй в gmcl_trolleybus_input_device_win64.dll из раздела Releases (или собери сам, см. ниже).
 
     Перейди в папку с игрой:
     ...\Steam\steamapps\common\GarrysMod\garrysmod\lua\bin\
